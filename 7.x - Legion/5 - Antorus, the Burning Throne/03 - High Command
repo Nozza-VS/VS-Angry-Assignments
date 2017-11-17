@@ -1,0 +1,31 @@
+{boss 1997}
+|cred=== {bl} Lust:  ===
+|cblueFight Type:|r 
+
+{tank} Keep boss positioned away from mines 
+    + face away from raid
+{tank} Swap when debuff (Exploit Weakness) expires
+{healer} Make sure you have CD's for Phase 3
+
+|corange--- PHASE 1 (Admiral Svirax) ---
+  Mages/Hunters bait Demonic Charge by standing at max range
+    Everyone else, dodge the charge
+  Interupt Pyroblast
+  Dodge green Mines
+
+|corange--- PHASE 2 (Engineer Ishkar) ---
+  Mages/Hunters bait Demonic Charge by standing at max range
+    Everyone else, dodge the charge
+  Interupt Pyroblast
+
+|corange--- PHASE 3 (General Erodus) ---
+  1 person needs to click "Felshield Emitter" during "Fusillade"
+  Dodge green Mines
+
+|corange--- Pods ---
+2 DPS swap every ~45 seconds
+Spam |cblue1|r at the boss and |cblue2|r on:
+|cyellowPhase 1:|r  |cblueAdds|r 
+|cyellowPhase 2:|r |cblueRaid|r 
+|cyellowPhase 3:|r |cblueMines|r 
+Make sure you leave it before you die

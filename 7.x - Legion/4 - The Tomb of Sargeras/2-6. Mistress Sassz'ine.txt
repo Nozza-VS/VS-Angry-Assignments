@@ -1,0 +1,20 @@
+{boss 1861}
+|cred=== {bl} Lust On Pull ===
+|credSave lust for Phase 3 on Heroic
+|corangeFight Type:|r AoE
+
+{tank} Use Mitigation while you have {icon 230201} {spell 230201}, swap when it's applied to the other tank.
+{tank} Tank adds next to boss
+{tank} |credDO NOT SOAK|r {icon 230139} {spell 230139} while you have debuff.
+
+{dps} Kill |cblueAbyss Stalkers|r to spawn puddles that create openings between the tornados.
+{dps} Interrupt/Stun |cblueAbyss Stalkers|r to keep them from jumping over the room.
+
+{healer} Players with {icon 230384} {spell 230384} take a bunch of damage over time
+{healer} {icon 230384} {spell 230384} can not be removed in Phase 3 so make sure you have CD's
+
+|cpurpleEveryone
+Stand behind {icon 230959} {spell 230959} to dodge {icon 232722} {spell 232722}
+Take {icon 232913}  {spell 232913} (purple puddles) to the whale when he opens {icon 234621} {spell  234621} (AVOID THE INNER CIRCLE!)
+Marked players spread in a T shape for {icon 230139} {spell 230139}, other players help soak marked targets.
+If you have a murloc on your back, get hit by the jellyfish AOE, otherwise avoid the jellyfish.

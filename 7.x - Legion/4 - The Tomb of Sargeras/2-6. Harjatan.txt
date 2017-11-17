@@ -1,0 +1,19 @@
+{boss 1856}
+|cred=== {bl} Lust On Pull ===
+|corangeFight Type:|r AoE
+
+{tank} Keep stacks of {icon 231998} {spell 231998} low (4-5 stacks)
+{tank} Grab adds as they spawn and stack on boss.
+{tank} Turn boss towards the raid just before it reaches 100 energy for {icon 231854} {spell 231854}
+
+{healer} Raid wide healing for {icon 231854} {spell 231854} and {icon 232174} {spell 232174}
+{healer} {icon 232061} {spell 232061} does more damage as the fight progresses, save cooldowns for later.
+
+{dps} Avoid all the bad when the boss casts {icon 232061} {spell 232061}
+{dps} Add priority: |corangeWavebender|r > |cyellowGladiator|r > Boss
+
+|cpurpleEveryone:
+Dodge {icon 233526} {spell 233526} (swirls)
+Hug edges of room during {icon 233429} {spell 233429} (when the boss glows blue) and avoid the bad.
+Interupt wavemenders
+Don't run away if fixated by Gladiators, just stack and try facing them away from raid during {icon 234128} {spell 234128}

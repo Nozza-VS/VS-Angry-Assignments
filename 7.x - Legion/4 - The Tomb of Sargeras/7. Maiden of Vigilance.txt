@@ -1,0 +1,20 @@
+{boss 1897}
+|cred=== {bl} Lust On Pull OR At Phase 2 ===
+|corangeFight Type:|r Single Target
+
+{tank} Taunt after each hammer (Light Hammer is always first)
+
+{dps} Quickly break {icon 236069} {spell 236069} and interrupt {icon 234891} {spell 234891}.
+
+{healer} Damage from {icon 234891} {spell 234891} increases with each wave.
+
+|cpurpleEveryone:
+Jump into the pit when {icon 235117} {spell 235117} (Bomb Icon) is about to expire.
+Don't stand near people with opposite infusion.
+Collect orbs that mach your infusion during Watchers Wrath
+STACK TOGETHER while collecting orbs
+Your infusion color may change throughout the fight. Keep an eye on it and swap sides accordingly.
+
+|credHEROIC:
+Hammers will leave pools on the ground, avoid the bad!
+Dodge the bad after each hammer!

@@ -1,0 +1,19 @@
+{boss 1862}
+|cred=== {bl} Lust On Pull ===
+|corangeFight Type:|r Single Target
+
+|cyellowEveryone: 
+Hide behind {icon 233021}{spell 233021} (pillars) for {icon 233062}{spell 233062}
+
+{tank} Tank boss away from pillars
+{tank} {icon 231363}{spell 231363} will destroy spikes 
+  - |cyellow(N: 10 yard range H: 25 yard range).
+{tank} Tank swap on |corangeMelted Armor|r and move away with debuff
+
+{dps}+{healer} Ranged stay |cyellowloosely|r stacked in the center of the room for spikes.
+{dps}+{healer} Aim {icon 233279}{spell 233279} (giant arrow) so it hits spikes to reduce the damage it does. (preferably 2 spikes)
+{dps}+{healer} Don't destroy spikes if you're targeted by {icon 230345}{spell 230345} (circle around you).
+{dps}+{healer} Green swirls appear under 3 players, spikes will form at these locations.
+
+|credHeroic: 
+|corangeA quarter of the room is coated in fire|r (bubbling in a corner of the room means this sections is about to be covered in fire), ranged split in to 4 groups and spread between 4 sections ( {star} {circle} {x} {moon} ) for pillars.

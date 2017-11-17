@@ -1,0 +1,32 @@
+{boss 1896}
+|cred=== {bl} Lust At 30% ===
+|corangeFight Type:|r Mixed
+
+|cpurpleSPIRIT REALM|r - |cgreen(Group 1+2)
+{tank} Mitigate {icon 236340} {spell 236340}
+{dps} Don't stand in the {icon 236241} {spell 236241} that is left behind by |cblueSoul Residue|r adds
+{dps} Don't stand near |cblueSoul Residue|r when it dies
+{dps} {icon 236515} {spell 236515} = move to Corp realm adds to remove {icon 236513} {spell 236513}
+{dps} Interupt {icon 236515} {spell 236515} when adds don't have {icon 236513} {spell 236513}
+Players with {icon 236135} {spell 236135} should leave the realm during {icon 236072} {spell 236072}
+
+|cpurpleCORPOREAL REALM|r - |cgreen(Group 3+4)
+{tank} Mitigate {icon 236142} {spell 236142} + face away from raid
+{dps} Keep {icon 235907} {spell 235907} to the edges
+{dps} Ranged keep spread
+{healer} People will need lots of healing during {icon 236072} {spell 236072}
+
+Aim {icon 235989} {spell 235989} to edge of the room and not towards spirit realm
+
+|cyellowGENERAL:
+{dps} |corangeAdds are priority - Make sure they're dead before phasing!
+{healer} Dispell {icon 236361} {spell 236361} when possible
+
+{icon 236449} {spell 236449} = Quickly meet up at {diamond} marker to remove it then move away.
+|corangePhase 2:
+{icon 236544} {spell 236544}/{icon 236542} {spell 236542}
+|credSTACK IN|r for circle, |credMOVE OUT|r for swirl
+
+|credHEROIC:
+|corangeStay away from players in opposite realm.
+|corangeMOVE AWAY from everyone if you get {icon 235933} {spell 235933}

@@ -2,8 +2,8 @@
 |cred=== {bl} Lust:  ===
 |cblueFight Type:|r Single / 2 target multi-dot
 
-{tank} Tank them 40 yards apart, no tank swaps
-{tank} Maw abilties: Faced hounds away from raid
+{tank} Tank them 40 yards apart, no tank swaps + 
+    face away from raid
 {tank} Use big cooldowns at stack 5 & 6
 {healer} Keep an eye out for overlapping abilities
 {dps} Melee stack on shadow, ranged stack in middle
@@ -21,5 +21,11 @@ TL;DR: Spread for fire, stack for shadow
 |corangeMolten Touch|r: Move away from stunned people
 |credEnflame Corruption|r: Spread out!
 
-|credHeroic:
-{tank} Make sure you have CD's for the 5th & 6th stack
+|credAbility Overlaps:
+1. "Siphon" (shadow dog 100) + "Molten" (fire dog 33): 
+Everyone stack and keep moving along the pre-assigned direction.
+2. "Siphon" (shadow dog 100) + "Gaze" (fire dog 66): 
+Siphon will come right after Gaze, people had gaze don’t run too far away from the group, so you can run back in-time for stack.
+3. "Siphon"(shadow dog 100) + "Enflame" (fire dog 100): 
+Keep stacking, player with fire debuff RUN OUT IMMEDIATELY, if you have both fire and shadow debuff, either soak with BIG CD or immunity, or sac.
+Group damage reduction and healing CD needed to survive.

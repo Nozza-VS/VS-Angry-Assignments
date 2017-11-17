@@ -1,0 +1,24 @@
+{boss 1867}
+|cred=== {bl} Lust On Pull ===
+|corangeFight Type:|r Single/Cleave
+
+{tank} Only 1 tank should {icon 233652} |cblueConfess|r at a time
+{tank} Ignore aggro on |cyellowBelac|r as it can't be tanked or moved.
+{tank} Tank |cyellowAtrigan|r next to |cyellowBelac|r for cleave, move away during their specials.
+{tank} Keep |cyellowAtrigan|r faced |corangeaway|r from raid for {icon 233426} {spell 233426}
+
+{dps} |corangeMove away|r from others when you have {icon 233983} {spell 233983} (circle around you)
+{dps} Interupt {icon 239401} {spell 239401}
+{dps} Melee move away from |cyellowBelac|r at around 90% energy.
+
+{healer} Stagger dispells for {icon 233983} {spell 233983} to control {icon 239358} {spell 239358} damage
+
+|cpurpleEveryone
+Keep spread out
+{icon 233652} |cblueConfess|r (Extra action button) at around 80-90% {icon 233104} {spell 233104} and collect orbs to empty your bar. |credDON'T WAIT FOR 100% TORMENT!
+Don't attack |cyellowAtrigan|r/|cyellowBelac|r during their:
+    {icon 233441} {spell 233441}/{icon 235230} {spell 235230}
+If targeted by {icon 233431} {spell 233431}, aim it away from everyone.
+
+|corangeInterrupt Rotation:|r Noz > Tuff > Isen
+|corangeBackup:|r Zag > Bachus > Sera

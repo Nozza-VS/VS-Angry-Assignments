@@ -1,0 +1,29 @@
+{boss 1903}
+|cred=== {bl} Lust On Pull ===
+|corangeFight Type:|r Single Target
+
+{tank} Stack to split Glaive damage.
+{tank} Move to other side of moon do drop Moon Glaive debuff
+{tank} Don't take too many stacks of {icon 239264} {spell 239264}
+
+
+{dps} Focus down Moontalon ()
+{dps} Try keep cooldowns for when it is at around 30% HP.
+{dps} Heroic: {icon 233263} {spell 233263} needs to be destroyed ASAP
+
+
+{healer} Focus heal players with {icon 236603} {spell 236603}
+{healer} Need to heal off the absorb shield from everyone during Embrace of The Eclipse
+{healer} Make sure you have a CD for when Font of Elune is empowered (Full moon).
+
+|credCD Rotation:
+1 - Butter / Szu
+2 - Lok / Kry
+
+|cpurpleEveryone:
+Dodge Glaive from Huntress
+Drop your debuff stacks periodically by moving to other side of the moon
+Move to other side of moon if you get {icon 236519} {spell 236519}
+Move to light side of moon if targeted by {icon 236603} {spell 236603}
+
+Make sure you take Lunar Beacon to the edges of the room, this ticks THREE times on heroic leaving a big circle each time!

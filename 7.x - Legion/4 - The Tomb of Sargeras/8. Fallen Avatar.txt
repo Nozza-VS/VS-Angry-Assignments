@@ -1,0 +1,19 @@
+{boss 1873}
+|cred=== {bl} Lust OnPull ===
+|corangeFight Type:|r Single Target
+
+{tank} Tank swap on 2-3 stacks of {icon 236494} {spell 236494}
+{tank} Tank Maiden on active pylon
+
+{dps} Focus Avatar unless Maiden is casting {icon 233856} {spell 233856}, then blow her up.
+{dps} Kill Maiden just before Avatar reaches full energy
+
+{healer} Heal stuffs
+
+|cpurpleEveryone:
+Help soak {icon 239739} {spell 239739} (3+ people / save immunites for 3rd set onwards if possible)
+Avoid {icon 234059} {spell 234059} (green swirls) and the targets of {icon 236604} {spell 236604} (purple blades)
+Move away from the boss for {icon 239132} {spell 239132}
+
+|credHeroic
+Help soak {icon 239058} {spell 239058} (purple circles)

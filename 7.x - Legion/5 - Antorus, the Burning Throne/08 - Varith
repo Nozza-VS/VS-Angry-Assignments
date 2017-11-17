@@ -1,0 +1,23 @@
+{boss 1983}
+|cred=== {bl} Lust: Last 5% ===
+|cblueFight Type:|r
+
+{tank} Tank swap every "Shadow Strike"
+{tank} Offtank stack with melee
+
+{healer} Shadow damage stops people from being healed for 7 seconds
+{healer} P1 = ticking dmg, P2 = ticking + slow 
+{healer} P3 = ticking dmg ramps up every second
+    Spam everything here till oom
+{healer} P4 = Nobody can be healed
+
+{dps} Melee stay stacked together
+{dps} Ranged stack together
+Melee + Offtank don't be in front of boss
+
+Only time you shouldn't be stacked is with Necrotic Embrace
+Run out with Nectrotic Embrace and use a personal
+
+|credHeroic:
+|corangeAt 95 energy:
+Inactive tank move behind boss, taunt after slash then move back to front

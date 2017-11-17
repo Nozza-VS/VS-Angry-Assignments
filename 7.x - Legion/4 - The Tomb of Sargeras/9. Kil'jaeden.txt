@@ -1,0 +1,24 @@
+{boss 1898}
+|cred=== {bl} Lust At Start Of Phase 2 ===
+|corangeFight Type:|r Single Target
+
+{tank} Swap after {spell 239932} (3-5 Stacks)
+ -  |cred This cleaves so don't stack
+
+{dps} Kill |corangeALL|r the things
+{dps} Interupt {spell 236597}
+
+{healer} Heal |cyellowHopeless Reflection|r to reduce {spell 237725}
+
+|cpurpleEveryone:
+|cyellowShadow Reflections|r (Player grows large) stack on boss and burn them down!
+During {spell 238999} move to rifts
+|cyellowSoak small swirls|r, leave the larger ones for tank/immunity class
+Help soak the player targeted by |cyellowFocused Dreadflame|r (Stand in between boss and target)
+Keep close to the center with your back to one of the corners for |cyellowSingularity|r (similar to Guldan fel bonds knockback)
+
+|credSoak Rotation:|r Bachus > Scorp > Isen > Sera (CALL IT OUT!)
+
+|credHeroic|r
+|cyellowKite fire orbs|r to Rifts
+|corangeObelisks are bad|r, dodge the bad
