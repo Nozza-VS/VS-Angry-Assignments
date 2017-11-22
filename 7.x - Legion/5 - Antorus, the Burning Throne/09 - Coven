@@ -1,19 +1,28 @@
 {boss 1986}
 |cred=== {bl} Lust:  ===
-|cblueFight Type:|r 
+|cblueFight Type:|r 2 Target Council / Some Adds
+
+|corange{tank} Keep them at LEAST 18 yards apart|r
 
 |corange--- Noura ---
-{tank} Taunt when debuff falls off
+{tank} Taunt when {spell 244899} debuff falls off
+|cyellow{tank} Always face away from raid
+Dodge sword tornado {icon 245627}{spell 245627}
+Spread out for {icon 253429} {spell 253538}
+
+|corange--- Asara ---
+Move to light boxes during {icon 252861} {spell 252861}
+{tank} Be sure to take bosses to seperate boxes
+Dodge the 3 purple blades {icon 245281} {spell 245281}
 
 |corange--- Diima ---
 {tank} Use CD for big frost attack
-{healer} Heal her absorb shields
+{healer} Heal absorb shields {icon 245586} {spell 245586}
+Try to avoid the {icon 253650} {spell 253650} (Big blue swirly)
 
-|cblueAman'Thul:|r     {dps} Focus burst adds
-|cblueGolganneth:|r   {tank}{healer}{dps} Everyone spread out
-|cblueKhaz'goroth:|r   {healer} Fire AOE
-|cblueNorgannon:|r    CC Adds for 30 seconds
-
-|credHeroic:
-|corange--- Asara ---
-Move to light boxes
+|corangeSpecial Titan Abilities:
+|cblueAman'Thul:|r   {dps} Focus burst adds 1 at a time
+|cblueGolganneth:|r {tank}{healer}{dps} Everyone spread out (2 yards)
+|cblueKhaz'goroth:|r {healer} Fire AOE
+                       Don't stand in the middle of the room
+|cblueNorgannon:|r  CC Adds for 30 seconds then kill
