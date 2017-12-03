@@ -2,24 +2,25 @@
 |cred=== {bl} Lust: Phase 3 ===
 |cblueFight Type:|r Single Target
 
+{skull} Heroic Only: Dodge the fel lines during intermissions and phase 3
+{tank} Tank swap on |corangeFel Bombardment|r, run to the back along edges with a speed buff
+{tank} 1 Tank in melee range of boss at all times
 |credDecimation:|r Move out of raid
 |credAnnihalation:|r Soak! (2-3 people)
-{healer} Annihaltion soakers get a 10 second DoT
-{tank} Tank swap on |corangeFel Bombardment|r, run to the back along edges with a speed buff
+{healer} {spell 244761} soakers get a 10 second DoT
 |credApocalypse Drive:
-{tank} {DPS}Dodge the lines, kill left weapon then run to the back of the room
 {healer} Lots of raid-wide damage
 
 |corange--- PHASE 1 ---
 Group soak spikes, dodge the big circles
 
-|cyellow--- Intermission (65%) ---
-Kill left cannon,, run away when it's dead.
+|cyellow--- Intermission (N: 60%, H/M: 65%) ---
+Kill left cannon, run to back when it's dead.
 
 |corange--- PHASE 2 ---
 Stack on {square}, dodge to {x} and vice versa
 
-|cyellow--- Intermission (25%) ---
+|cyellow--- Intermission (N: 20%, H/M: 35%) ---
 Kill the other weapon, run away when it's dead.
 
 |corange--- PHASE 3 ---

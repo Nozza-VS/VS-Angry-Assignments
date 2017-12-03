@@ -1,16 +1,18 @@
 {boss 1985}
-|cred=== {bl} Lust:  ===
-|cblueFight Type:|r Single with some adds
+|cred=== {bl} Lust: After Purple Portal ===
+|cblueFight Type:|r Mixed
 
 Group 1 on main platform at all times
 {healer} Make sure you have big cooldowns for Phase 4!
 
 {tank} Swap at ~3 stacks of {spell 244016}
-{tank} Tank at edge of the room
+{tank} Tank at very edge of the room
+Move out of big shadow circle (Collapsing World)
+Dodge big green lines (Felstorm Barrage)
 
 |corange90% - Red Portal:
 Tank swap before leaving
-Everyone to the portal but Group 1
+Everyone to the portal but Group 1 + Most healers
 Interrupt {spell 244607}
 Dodge fire circles
 Interrupt {spell 255805}

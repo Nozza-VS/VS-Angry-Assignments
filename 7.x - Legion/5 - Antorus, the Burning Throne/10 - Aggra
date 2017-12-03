@@ -1,21 +1,24 @@
 {boss 1984}
-|cred=== {bl} Lust:  ===
+|cred=== {bl} Lust: Phase 3 (After 2nd Int) ===
 |cblueFight Type:|r 
 
-{tank} Stack & swap when debuff expires
-{tank} Position boss away from center of room
-{tank} Keep Flame add 15 yards  away from other adds
+{tank} Stack & swap when debuff expires / ~8 stacks
+{tank} Keep Flame add 15 yards away from other adds
 {dps}+{healer} Spread out, stack behind boss at 100 energy
+Run out of big fire circle (Searing Tempest)
+Dodge fire waves (Wake of Flame)
 
 |corange--- 100 Energy ---
+Order: Solo > Raid > Solo > Raid > Run out
 Raid stack behind boss
-{tank} Use a CD to solo soak the first hit, then turn towards the raid
-{tank} 2nd tank taunt and do the same
+{tank} Use a CD to solo soak the first hit (Foebreaker)
+{tank} 2nd tank taunt and face boss at raid (Flame Rend)
 
-|corange--- Intermission ---
+|corange--- Intermission (80%/40%) ---
 Keep Embers away from boss (All CC works on these)
 Kill Flame add to end intermission phase
+{skull} Let at least 2 little adds explode before killing the 2nd big add
 
 |credHeroic:
-Adds don't despawn after intermission: Let 1 hit the boss every 15 seconds
-Don't kill Flame add until all Embers are gone
+Little adds can't be killed: Let 1 hit the boss every ~15 seconds
+CC them so only 1 reach the boss at a time

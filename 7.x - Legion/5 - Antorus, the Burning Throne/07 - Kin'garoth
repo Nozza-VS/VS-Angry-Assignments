@@ -3,11 +3,14 @@
 |cblueFight Type:|r
 
 |corange--- PHASE 1 ---
-{tank} Use CD for Forging Strike then tank swap
+{tank} Use CD for {spell 244312} then tank swap
+		Or swap every 2 stacks when debuff falls off
 Dodge orange crystals + don't go near them
-Dodge fel beam
+Dodge fel beam (Ruiner)
+Spread 5 yards for Reverberating Strike + avoid detonator
+Dodge Diabolic bombs (1 on N, 3 on H)
 
-|corange--- PHASE 2 ---
+|corange--- PHASE 2 (100 Energy) ---
 {healer} Use CD's for "Flames of the Forge"
 {DPS} Pop CD's for robots while they have 30 stacks
 Raid split in half to kill each robot
@@ -21,4 +24,3 @@ Dodge green circles
 
 |credHeroic:
 3 Robots active instead of 2
-Raid splits in to 3 and each group bursts a robot

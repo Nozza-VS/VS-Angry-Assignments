@@ -1,27 +1,32 @@
 {boss 2031}
-|cred=== {bl} Lust:  ===
+|cred=== {bl} Lust: Phase 3 or 4 ===
 |cblueFight Type:|r Mixed
 
 |corange--- PHASE 1 ---
 {tank} Swap when debuff expires / right after a scythe & don't stack
 {tank} Rotate boss after each cone
 
-Water Buff:
-Lightning Buff:
+Water Buff: Haste/Vers
+Lightning Buff: Mastery/Crit
 
-|corange--- PHASE 2 ---
-Bomb players move to markers, tank soak with the big bomb
+|corange--- PHASE 2 (70%) ---
+Bomb players move to markers, tank with buff soak big bomb
+    (Or call out if you can immune the big one)
 Dodge the lines on the ground
 
-|corange--- PHASE 3 ---
-{tank} Take add with 1 weapon away from other adds
-{tank} Stack adds with 2 weapons on casters for cleave
-Interupt Cosmic Beacon, ignore Starblast
+|corange--- PHASE 3 (40%) ---
+{tank} Take add with 1 big sword to center
+{tank} Stack add with 2 weapons on casters for cleave
+|credInterupt Cosmic Beacon!|r, ignore Starblast
+{skull} Once interupted, adds become immune to interupts for 20s
+Stay still for Cosmic Ray, everyone dodge beam
+Try to DPS the add that has the debuff of your type of dmg
 
-|corange--- PHASE 4 ---
+|corange--- PHASE 4 (Once adds die) ---
+Release and run straight to tree, dodge adds
+|credEnd of All Things|r, Interrupt that shit!
 {tank} Don't bother tank swapping, just survive as long as possible
 {healer} Heal the tree to keep the free revives up longer
-
+When you die collect orbs before running to tree
+Kill orbs ASAP
 Bomb players move out, tanks don't stack with big bomb for this phase
-Kills adds ASAP
-Dead people collect orbs before moving to the tree for a rez

@@ -1,22 +1,27 @@
 {boss 1983}
-|cred=== {bl} Lust: Last 5% ===
-|cblueFight Type:|r
+|cred=== {bl} Lust: ~4-5 minutes ===
+|cblueFight Type:|r Patchwerk
 
-{tank} Tank swap every "Shadow Strike"
-{tank} Offtank stack with melee
+|corangeTanks
+{tank} Tank swap every {spell 243960} (100 Energy)
+{tank} Offtank stay within 8 yards of offtank but not in front of boss
 
+|corangeHealers
 {healer} Shadow damage stops people from being healed for 7 seconds
-{healer} P1 = ticking dmg, P2 = ticking + slow 
-{healer} P3 = ticking dmg ramps up every second
-    Spam everything here till oom
-{healer} P4 = Nobody can be healed
+|cyellowEvery 2 minutes:
+{healer} |cyellowPull|r: Ticking dmg {spell 243968}
+{healer} |cyellow2:|r Ticking dmg + slow {spell 243977}
+{healer} |cyellow4:|r Ticking dmg ramps up {spell 243980}
+        Spam everything here till oom
+{healer} |cyellow6:|r Nobody can be healed {spell 243973}
 
+|corangeDPS
 {dps} Melee stay stacked together
 {dps} Ranged stack together
-Melee + Offtank don't be in front of boss
+Move out of {spell 243999} swirlys ASAP, move as a group
 
-Only time you shouldn't be stacked is with Necrotic Embrace
-Run out with Nectrotic Embrace and use a personal
+Only time you shouldn't be stacked is with {icon 244093} {spell 244093}
+Run out 10+ yards with {icon 244093} {spell 244093} and use a personal
 
 |credHeroic:
 |corangeAt 95 energy:
